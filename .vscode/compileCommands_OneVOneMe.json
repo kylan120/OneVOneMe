@@ -1,0 +1,122 @@
+[
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMe.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMe.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMe.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMeCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMeCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMeGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMePlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMeProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\OneVOneMeProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\Source\\OneVOneMe\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kylan\\OneDrive\\Documents\\Unreal Projects\\OneVOneMe\\.vscode\\compileCommands_OneVOneMe\\OneVOneMe.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
