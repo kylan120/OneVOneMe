@@ -1,8 +1,12 @@
-// Implementation in .cpp file
+/*
+Name: Kylan, Jeffery, Jordan
+Date: 12/03/2023
+Description: This is implemented from the header that sets the game
+*/
 
 #include "OneVOneMeGameMode.h"
 #include "OneVOneMeCharacter.h"
-#include "Enemy.h" // Include the Enemy header
+#include "Enemy.h" 
 #include "UObject/ConstructorHelpers.h"
 
 AOneVOneMeGameMode::AOneVOneMeGameMode()
@@ -20,5 +24,5 @@ void AOneVOneMeGameMode::BeginPlay()
     // Spawn the enemy using class members
     AEnemy* NewEnemy = GetWorld()->SpawnActor<AEnemy>(AEnemy::StaticClass(), SpawnLocation, SpawnRotation);
 
-    // You can perform additional setup for the enemy here if needed
+  
 }

@@ -1,3 +1,9 @@
+/*
+Name: Kylan, Jeffery, Jordan
+Date: 12/03/2023
+Descripiton: This implements to the cpp class that is for the main game
+*/
+
 #pragma once
 
 #include "CoreMinimal.h"

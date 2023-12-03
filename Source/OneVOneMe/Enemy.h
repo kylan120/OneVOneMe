@@ -1,3 +1,9 @@
+/*
+Name: Kylan, Jeffery, Jordan
+Date: 12/03/2023
+Description: This is the enemy header that implements to the enemy cpp
+*/
+
 #pragma once
 
 #include "CoreMinimal.h"

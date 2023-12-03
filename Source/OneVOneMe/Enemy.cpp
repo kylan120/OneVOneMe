@@ -1,3 +1,9 @@
+/*/
+Name: Kylan, Jeffery, Jordan 
+Date: 12/03/2023
+Description: This is the Enemy class that is implemented from the header
+*/
+
 #include "Enemy.h"
 
 // Sets default values
@@ -45,16 +51,14 @@ float AEnemy::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEv
 // Function to handle enemy death
 void AEnemy::Die()
 {
-	// Implement logic for enemy death here
-	// For example, play death animation, reset health, and respawn
+	
 	Respawn();
 }
 
 // Function to respawn the enemy
 void AEnemy::Respawn()
 {
-	// Implement logic to respawn the enemy
-	// For example, reset health and reposition the enemy
+
 	CurrentHealth = MaxHealth;
-	SetActorLocation(FVector(0.0f, 0.0f, 0.0f)); // Set respawn location
+	SetActorLocation(FVector(0.0f, 0.0f, 0.0f));
 }

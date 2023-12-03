@@ -1,5 +1,10 @@
-// OneVOneMeCharacter.cpp
-//hello
+/*
+Name: Kylan, Jeffery, Jordan
+Date: 12/03/2023
+Description: This is the character class that is implemented from the header class
+*/
+
+
 #include "OneVOneMeCharacter.h"
 #include "OneVOneMeProjectile.h"
 #include "Animation/AnimInstance.h"
@@ -127,14 +132,13 @@ void AOneVOneMeCharacter::Respawn()
 	// Reset health to initial value
 	Health = InitialHealth;
 
-	// Implement respawn logic here (e.g., teleport the character to the starting point)
+	
 	SetActorLocation(FVector::ZeroVector);
 }
 
 void AOneVOneMeCharacter::Die()
 {
-	// Implement death logic here (e.g., play death animation, disable input, etc.)
-	// For now, let's respawn the character after a delay
+	
 	GetWorld()->GetTimerManager().SetTimerForNextTick([this]()
 	{
 		Respawn();

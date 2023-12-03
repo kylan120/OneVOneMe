@@ -1,5 +1,8 @@
-// OneVOneMeCharacter.h
-
+/*
+Name: Kylan, Jeffery, Jordan 
+Date: 12/03/2023
+Descripiton: This is carries over to the cpp class for the character
+*/
 #pragma once
 
 #include "CoreMinimal.h"
